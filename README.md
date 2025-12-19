@@ -1,6 +1,6 @@
 # Haseeb-Qaiser
 <h1 align="center">Hi 👋, I'm Haseeb Qaiser</h1>
-<h3 align="center">AI | Machine Learning | Deep Learning | Computer Vision Engineer</h3>
+<h3 align="center">AI Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HaseebQaiser&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,7 +14,7 @@
 📊 Strong background in **Python, Data Science, Model Deployment**  
 🎯 Focused on real-world AI solutions  
 
-📫 Reach me at: **your-email@gmail.com**
+📫 Reach me at: **haseebqiaser01@gmail.com**
 
 ---
 
@@ -45,7 +45,6 @@
 
 🔹 **Image Classification Model**  
 👉 Multi-class image classification with CNN  
-🔗 https://github.com/yourusername/image-classification
 
 ---
 
@@ -62,12 +61,10 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/haseeb-qaiser-034bb32a9/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://kaggle.com/yourprofile" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" />
-  </a>
+
 </p>
 
 ---
