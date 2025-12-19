@@ -1,60 +1,60 @@
-
 <h1 align="center">Hi 👋, I'm Haseeb Qaiser</h1>
-<h3 align="center">AI Engineer </h3>
+<h3 align="center">AI Engineer | Machine Learning | Deep Learning | Computer Vision | LLMs & RAG</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaseebQaiser&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=HaseebQaiser1434&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
-👨‍💻 AI & Computer Vision Engineer passionate about building intelligent systems  
-🤖 Expertise in **ML, DL, CNNs, Object Detection, Image Processing**  
-📊 Strong background in **Python, Data Science, Model Deployment**  
-🎯 Focused on real-world AI solutions  
+👨‍💻 AI Engineer with 2+ years of experience building production-ready AI systems  
+🤖 Expertise in **Machine Learning, Deep Learning, Computer Vision, LLMs & RAG**  
+📊 Strong background in **Python, PyTorch, TensorFlow, FastAPI**  
+🎯 Focused on scalable, real-world AI solutions  
 
-📫 Reach me at: **haseebqiaser01@gmail.com**
+📫 Reach me at: **haseebqaiser01@gmail.com**
 
 ---
 
 ## 🧠 Skills & Expertise
 - Machine Learning & Deep Learning
-- Computer Vision (OpenCV, CNNs)
-- Object Detection & Image Classification
-- Data Analysis & Feature Engineering
+- Computer Vision (YOLOv8, OpenCV)
+- NLP, LLMs & Retrieval-Augmented Generation (RAG)
 - Model Training, Evaluation & Deployment
+- MLOps, APIs & AI System Integration
 
 ---
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,numpy,pandas,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,docker,git,github,linux" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
-🔹 **AI Object Detection System**  
-👉 Detects real-world objects using YOLO & CNN  
-🔗 https://github.com/yourusername/object-detection
+🔹 **Deepfake Detection System**  
+👉 AI-based deepfake face video detection using CNNs  
+🔗 https://github.com/HaseebQaiser1434/deepfake-detection
 
-🔹 **Face Recognition System**  
-👉 Real-time face recognition using Deep Learning  
-🔗 https://github.com/yourusername/face-recognition
+🔹 **YOLOv8 Object Detection**  
+👉 Real-time object detection using YOLOv8 & OpenCV  
+🔗 https://github.com/HaseebQaiser1434/yolov8-object-detection
 
-🔹 **Image Classification Model**  
-👉 Multi-class image classification with CNN  
+🔹 **RAG-based Question Answering System**  
+👉 LLM-powered document QA using FAISS & Transformers  
+🔗 https://github.com/HaseebQaiser1434/rag-qa-system
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaseebQaiser&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaseebQaiser1434&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebQaiser&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebQaiser1434&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -64,7 +64,6 @@
   <a href="https://www.linkedin.com/in/haseeb-qaiser-034bb32a9/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
 </p>
 
 ---
